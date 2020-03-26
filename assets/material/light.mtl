@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.Material",
+  "_name": "light",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "4f86d876-d34e-4da4-934b-4291f9074fb3"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_MASK": true
+      },
+      "props": {
+        "angle": 10,
+        "width": 0.1,
+        "masktexture": {
+          "__uuid__": "9d60001f-b5f4-4726-a629-2659e3ded0b8"
+        }
+      }
+    }
+  }
+}
