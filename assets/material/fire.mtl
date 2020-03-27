@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.Material",
+  "_name": "fire",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "9e5aaf5d-a05e-40e4-bf2c-6117086e90bd"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "noise": {
+          "__uuid__": "d44687ff-a940-4829-b1f4-71d8a4c39b19"
+        },
+        "texture": {
+          "__uuid__": "6a705d23-ac82-46a1-9d60-56a239ff9f89"
+        },
+        "after": {
+          "__uuid__": "cba2c6e6-7036-4532-bcd2-a774c0abb779"
+        }
+      }
+    }
+  }
+}
